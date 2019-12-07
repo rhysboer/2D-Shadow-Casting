@@ -1,6 +1,6 @@
 # 2D-Shadow-Casting
 A small demo I made in WebGL using Babylon.js to display 2D shadow casting in a dynamic top down grid.  
-The lightsource follows the cursor inside the grid. Check out the demo on my site 
+The lightsource follows the cursor inside the grid. Check out the demo on [my site.](http://rhysboer.com)
 
 # Controls  
 `Left Click` to place place a block  
